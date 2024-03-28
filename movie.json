@@ -1,0 +1,46 @@
+{
+    "movie": [
+    {
+        "MovieID": "6166392",
+        "Title": "Wonka",
+        "Genre": "Musical",
+        "Length": "116",
+        "Rating": "7.0/10"
+    },
+    {
+        "MovieID": "10545296",
+        "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "Genre": "Action",
+        "Length": "147",
+        "Rating": "6.8/10"
+    },
+    {
+        "MovieID": "15239678",
+        "Title": "Dune: Part Two",
+        "Genre": "Action",
+        "Length": "166",
+        "Rating": "8.8/10"
+    },
+    {
+        "MovieID": "012338",
+        "Title": "Titanic",
+        "Genre": "Romance",
+        "Length": "195",
+        "Rating": "7.9/10"
+    },
+    {
+        "MovieID": "9362722",
+        "Title": "Spider-Man: Across the Spider-Verse",
+        "Genre": "Action",
+        "Length": "140",
+        "Rating": "8.6/10"
+    },
+    {
+        "MovieID": "1745960",
+        "Title": "Top Gun: Maverick",
+        "Genre": "Action",
+        "Length": "130",
+        "Rating": "8.2/10"
+    }
+    ]   
+}
